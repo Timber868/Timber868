@@ -16,9 +16,9 @@ Go · Java · Python · C/C++ · TypeScript · Vue.js · React.js · HTML/CSS ·
 
 ### 🏗️ Featured projects
 - **RoomieRanks** — Vue + Go + MySQL app for ranking apartments & roommates. [Repo](https://github.com/Timber868/roomieranks) · [Demo](#)
-- **McGill Engineering Games — Machine** — Robot control & tests in **C++/Python**. [Repo](https://github.com/Timber868/enggames-machine)
-- **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows (write‑up). [Case Study](https://github.com/Timber868/thales-support-tool-case-study)
-- **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests (write‑up). [Case Study](https://github.com/Timber868/dpod-microservices-notes)
+- **McGill Engineering Games — Machine** — Robot control & tests in **C++/Python**. [Repo]([https://github.com/Timber868/enggames-machine](https://github.com/MachineMGCIL/Machine-202wah))
+- **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows (write‑up).
+- **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests (write‑up). 
 
 > If a repo is private or contains proprietary code, I share a **redacted case study** describing the work, approach, and impact.
 

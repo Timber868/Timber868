@@ -18,8 +18,8 @@ Go · Java · Python · C/C++ · TypeScript · Vue.js · React.js · HTML/CSS ·
 - **RoomieRanks** — Vue + Go + MySQL app for ranking apartments & roommates. [Repo](https://github.com/Timber868/roomieranks)
 - **McGill Engineering Games — Machine** — Robot control & tests in **C++/Python**. [Repo](https://github.com/MachineMGCIL/Machine-202wah)
 - **E‑Commerce Game Store (ECSE321)** — **Java Spring Boot** + **Vue** full‑stack app (accounts, wishlists, carts, reviews, checkout). *Unit Testing Lead; built Game View page & helped services/controllers.* [Repo](https://github.com/McGill-ECSE321-Fall2024/project-group-13)
-- **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows (write‑up).
-- **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests (write‑up). 
+- **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows.
+- **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests. 
 
 ### 📊 GitHub at a glance
 <p align="center">

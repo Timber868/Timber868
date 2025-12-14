@@ -31,8 +31,8 @@ Go · Java · Python · C/C++ · TypeScript · Vue.js · React.js · HTML/CSS ·
 </p>
 
 ### 📝 Latest write‑ups
-- Test‑first robotics controls (C++): design notes & flaky‑test fixes — [post](https://github.com/Timber868/enggames-machine)
-- Migrating away from a deprecated Java lib across services — [post](https://github.com/Timber868/dpod-microservices-notes)
+- Test‑first robotics controls (C++): design notes & flaky‑test fixes — [post](https://github.com/Timber868/enggames-machine](https://github.com/Timber868/Machine-2026))
+- Migrating away from a deprecated Java lib across services 
 
 ### 📫 Contact
 - Email: timothe.roma@mail.mcgill.ca  

@@ -21,18 +21,12 @@ Go · Java · Python · C/C++ · TypeScript · Vue.js · React.js · HTML/CSS ·
 - **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows (write‑up).
 - **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests (write‑up). 
 
-> If a repo is private or contains proprietary code, I share a **redacted case study** describing the work, approach, and impact.
-
 ### 📊 GitHub at a glance
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Timber868&show_icons=true&hide_border=true" /></a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timber868&layout=compact&hide_border=true" /></a>
 </p>
-
-### 📝 Latest write‑ups
-- Test‑first robotics controls (C++): design notes & flaky‑test fixes — [post](https://github.com/Timber868/enggames-machine](https://github.com/Timber868/Machine-2026))
-- Migrating away from a deprecated Java lib across services 
 
 ### 📫 Contact
 - Email: timothe.roma@mail.mcgill.ca  

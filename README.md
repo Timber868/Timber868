@@ -9,14 +9,14 @@
 - Build backend services and tools in **Golang** and **Java (Spring Boot)**
 - Ship web apps with **Vue.js**/**React.js** + REST APIs
 - Design schemas in **MySQL/PostgreSQL** and write tests (**unit/integration/E2E**)
-- Automate with **GitHub/GitLab CI**, Helm, and a splash of Bash
+- Automate with **GitHub/GitLab CI**, Helm, and Bash
 
 ### 🧰 Tech I use regularly
-Go · Java · Python · C/C++ · TypeScript · Vue.js · React.js · HTML/CSS · MySQL · PostgreSQL · Git · GitHub/GitLab · Helm · Jira · VS Code · IntelliJ
+Go · Java · Python · C++ · Vue.js · HTML/CSS · PostgreSQL · Git
 
 ### 🏗️ Featured projects
 - **RoomieRanks** — Vue + Go + MySQL app for ranking apartments & roommates. [Repo](https://github.com/Timber868/roomieranks)
-- **McGill Engineering Games — Machine** — Robot control & tests in **C++/Python**. [Repo](https://github.com/MachineMGCIL/Machine-202wah)
+- **McGill Engineering Games — Machine** — Robot control & tests in **C++/Python**. [Machine 2025](https://github.com/MachineMGCIL/Machine-202wah) and [Machine2026](https://github.com/Timber868/Machine-2026)
 - **E‑Commerce Game Store (ECSE321)** — **Java Spring Boot** + **Vue** full‑stack app (accounts, wishlists, carts, reviews, checkout). *Unit Testing Lead; built Game View page & helped services/controllers.* [Repo](https://github.com/McGill-ECSE321-Fall2024/project-group-13)
 - **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows.
 - **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests. 

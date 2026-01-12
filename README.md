@@ -21,13 +21,6 @@ Go · Java · Python · C++ · Vue.js · HTML/CSS · PostgreSQL · Git
 - **Support Tool (Thales, Co‑op)** — Golang CLI improving HSM client workflows.
 - **DPOD Microservices (Thales, Co‑op)** — Spring Boot + Helm updates & tests. 
 
-### 📊 GitHub at a glance
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Timber868&show_icons=true&hide_border=true" /></a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timber868&layout=compact&hide_border=true" /></a>
-</p>
-
 ### 📫 Contact
 - Email: timothe.roma@mail.mcgill.ca  
 - LinkedIn: https://linkedin.com/in/tim-roma/
